@@ -1,7 +1,5 @@
 # proxy_server
 
----
-
 **Proxy_server_1 : Cache의 역할을 대신할 URL HIT/MISS 구현**
 (2022.03.07 - 2022.04.13)
 
